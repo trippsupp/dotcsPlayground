@@ -1,0 +1,9 @@
+D:\_Development\_Projects\TargetPairFinder\main\PairFinderGrounds\bin\Release\netstandard2.0\PairFinderGrounds.deps.json
+D:\_Development\_Projects\TargetPairFinder\main\PairFinderGrounds\bin\Release\netstandard2.0\PairFinderGrounds.dll
+D:\_Development\_Projects\TargetPairFinder\main\PairFinderGrounds\bin\Release\netstandard2.0\PairFinderGrounds.pdb
+D:\_Development\_Projects\TargetPairFinder\main\PairFinderGrounds\obj\Release\netstandard2.0\PairFinderGrounds.csproj.CoreCompileInputs.cache
+D:\_Development\_Projects\TargetPairFinder\main\PairFinderGrounds\obj\Release\netstandard2.0\PairFinderGrounds.AssemblyInfoInputs.cache
+D:\_Development\_Projects\TargetPairFinder\main\PairFinderGrounds\obj\Release\netstandard2.0\PairFinderGrounds.AssemblyInfo.cs
+D:\_Development\_Projects\TargetPairFinder\main\PairFinderGrounds\obj\Release\netstandard2.0\PairFinderGrounds.dll
+D:\_Development\_Projects\TargetPairFinder\main\PairFinderGrounds\obj\Release\netstandard2.0\PairFinderGrounds.pdb
+D:\_Development\_Projects\TargetPairFinder\main\PairFinderGrounds\obj\Release\netstandard2.0\PairFinderGrounds.csprojAssemblyReference.cache

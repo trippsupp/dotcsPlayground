@@ -1,0 +1,9 @@
+D:\_Development\_Projects\TargetPairFinder\main\Grounds\bin\Release\netstandard2.0\Grounds.deps.json
+D:\_Development\_Projects\TargetPairFinder\main\Grounds\bin\Release\netstandard2.0\Grounds.dll
+D:\_Development\_Projects\TargetPairFinder\main\Grounds\bin\Release\netstandard2.0\Grounds.pdb
+D:\_Development\_Projects\TargetPairFinder\main\Grounds\obj\Release\netstandard2.0\Grounds.csprojAssemblyReference.cache
+D:\_Development\_Projects\TargetPairFinder\main\Grounds\obj\Release\netstandard2.0\Grounds.csproj.CoreCompileInputs.cache
+D:\_Development\_Projects\TargetPairFinder\main\Grounds\obj\Release\netstandard2.0\Grounds.AssemblyInfoInputs.cache
+D:\_Development\_Projects\TargetPairFinder\main\Grounds\obj\Release\netstandard2.0\Grounds.AssemblyInfo.cs
+D:\_Development\_Projects\TargetPairFinder\main\Grounds\obj\Release\netstandard2.0\Grounds.dll
+D:\_Development\_Projects\TargetPairFinder\main\Grounds\obj\Release\netstandard2.0\Grounds.pdb
